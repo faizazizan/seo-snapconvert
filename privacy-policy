@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy – SEO Snap & Convert</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet"/>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #f9f8f5;
+      --ink: #1a1a18;
+      --muted: #6b6b62;
+      --accent: #2d6a4f;
+      --rule: #e0ddd5;
+      --card: #ffffff;
+    }
+    body {
+      font-family: 'DM Sans', sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+      line-height: 1.75;
+      font-size: 16px;
+      padding: 0 1.25rem 4rem;
+    }
+    header {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 3.5rem 0 2rem;
+      border-bottom: 1px solid var(--rule);
+    }
+    .badge {
+      display: inline-block;
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      padding: 0.2rem 0.65rem;
+      border-radius: 2px;
+      margin-bottom: 1rem;
+    }
+    h1 {
+      font-family: 'DM Serif Display', serif;
+      font-size: clamp(1.75rem, 4vw, 2.5rem);
+      line-height: 1.2;
+      margin-bottom: 0.75rem;
+    }
+    .meta {
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+    main {
+      max-width: 680px;
+      margin: 0 auto;
+      padding-top: 2.5rem;
+    }
+    section {
+      margin-bottom: 2.5rem;
+    }
+    h2 {
+      font-family: 'DM Serif Display', serif;
+      font-size: 1.2rem;
+      margin-bottom: 0.6rem;
+      color: var(--ink);
+    }
+    p {
+      color: #3a3a35;
+      margin-bottom: 0.75rem;
+    }
+    ul {
+      padding-left: 1.25rem;
+      margin-bottom: 0.75rem;
+      color: #3a3a35;
+    }
+    ul li {
+      margin-bottom: 0.35rem;
+    }
+    .highlight-box {
+      background: var(--card);
+      border-left: 3px solid var(--accent);
+      padding: 1rem 1.25rem;
+      border-radius: 0 6px 6px 0;
+      margin-bottom: 0.75rem;
+      font-size: 0.95rem;
+    }
+    .highlight-box strong {
+      color: var(--accent);
+    }
+    hr {
+      border: none;
+      border-top: 1px solid var(--rule);
+      margin: 2.5rem 0;
+    }
+    footer {
+      max-width: 680px;
+      margin: 0 auto;
+      padding-top: 1.5rem;
+      font-size: 0.82rem;
+      color: var(--muted);
+      border-top: 1px solid var(--rule);
+    }
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="badge">Chrome Extension</div>
+  <h1>Privacy Policy</h1>
+  <p class="meta">SEO Snap &amp; Convert: Markdown &amp; SEO Auditor &nbsp;&middot;&nbsp; Last updated: June 2025</p>
+</header>
+
+<main>
+
+  <section>
+    <div class="highlight-box">
+      <strong>Short version:</strong> This extension operates entirely on your device. No data is collected, transmitted, or stored on any server. Ever.
+    </div>
+  </section>
+
+  <section>
+    <h2>1. Overview</h2>
+    <p>SEO Snap &amp; Convert ("the Extension") is a browser tool for performing on-page SEO audits and converting web content into Markdown format. This Privacy Policy describes how the Extension handles information when you use it.</p>
+    <p>The Extension was developed by Faiz Azizan (<a href="https://faizazizan.com" target="_blank" rel="noopener">faizazizan.com</a>).</p>
+  </section>
+
+  <section>
+    <h2>2. Data We Do Not Collect</h2>
+    <p>The Extension does <strong>not</strong> collect, store, transmit, or share any of the following:</p>
+    <ul>
+      <li>Personal identification information</li>
+      <li>Browsing history or visited URLs</li>
+      <li>Page content or HTML beyond what is temporarily processed locally</li>
+      <li>Screenshots or captured images</li>
+      <li>Cookies or authentication tokens</li>
+      <li>Analytics or usage telemetry of any kind</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>3. How the Extension Works</h2>
+    <p>All processing performed by the Extension — including SEO analysis, content extraction, and Markdown conversion — occurs <strong>locally within your browser</strong>. Specifically:</p>
+    <ul>
+      <li>Page HTML and content is read temporarily in memory to generate audit results</li>
+      <li>Screenshots, if captured, are processed locally and never leave your device</li>
+      <li>No external API calls are made — there is no server-side component</li>
+      <li>All data is discarded when you close the extension panel or navigate away</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>4. Third-Party Services</h2>
+    <p>The Extension does not integrate with, or transmit data to, any third-party service, analytics platform, or advertising network.</p>
+  </section>
+
+  <section>
+    <h2>5. Permissions</h2>
+    <p>The Extension requests browser permissions solely to perform its stated functions. Each permission is used only as required to deliver the audit and conversion features — no permission is used for data collection purposes.</p>
+  </section>
+
+  <section>
+    <h2>6. Children's Privacy</h2>
+    <p>The Extension is not directed at children under the age of 13 and does not knowingly collect any information from children.</p>
+  </section>
+
+  <section>
+    <h2>7. Changes to This Policy</h2>
+    <p>If this Privacy Policy is updated, the revised version will be published at this URL with an updated effective date. Continued use of the Extension after changes constitutes acceptance of the updated policy.</p>
+  </section>
+
+  <section>
+    <h2>8. Contact</h2>
+    <p>For questions or concerns regarding this Privacy Policy, contact:</p>
+    <p>
+      <strong>Faiz Azizan</strong><br/>
+      Email: <a href="mailto:faiz@faizazizan.com">faiz@faizazizan.com</a><br/>
+      Website: <a href="https://faizazizan.com" target="_blank" rel="noopener">faizazizan.com</a>
+    </p>
+  </section>
+
+</main>
+
+<footer>
+  <p>&copy; 2025 Faiz Azizan &middot; SEO Snap &amp; Convert &middot; All rights reserved.</p>
+</footer>
+
+</body>
+</html>
